@@ -1,0 +1,13 @@
+criar uma build do projeto com base no setup
+
+python setup.py build
+
+
+criar um arquivo compactado
+
+python setup.py sdist
+
+
+instala o pacote no ambiente
+
+py setup.py install

@@ -1,0 +1,31 @@
+iniciar o shell com conda
+
+conda init bash
+
+
+
+verifica as informaçoes do conda
+
+conda info
+
+
+lista os ambiente virutais 
+
+conda env list
+
+
+cria o ambiente virtual pelo conda
+
+conda create --name venv
+
+
+instala pacotes
+
+conda install numpy
+
+
+
+ativar ambiente 
+
+conda activate venv
+

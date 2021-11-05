@@ -1,0 +1,13 @@
+verifica as os pacotes instalados e verções
+
+pip freeze
+
+
+gerar um arquivo com os pacotes
+
+pip freeze > requirements.txt
+
+
+instala pelo pip os pacotes da versão do requirements
+
+pip install -r requirements.txt

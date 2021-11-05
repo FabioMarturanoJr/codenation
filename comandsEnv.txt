@@ -1,0 +1,22 @@
+cria o ambiente virtual 
+
+virtualenv venv
+
+
+verifica a fonte do programa 
+
+which python
+
+
+ativa o ambiente virtural
+
+source venv/bin/activate
+. venv/bin/activate
+
+
+desativa o ambiente virtual 
+
+deactivate
+
+
+video 1:09
