@@ -1,0 +1,16 @@
+instala jupyter
+
+  - conda install jupyter
+  - pip install jupyter
+
+verifica versão
+  - jupyter --version
+
+checa a fonte da biblioteca
+
+  - which jupyter
+
+instancia uma notebook
+
+  - jupyter notebook
+  - http://localhost:8888/tree?token=<seuToken Ver no shell>
